@@ -29,4 +29,7 @@ The first step that I took before I did some of the commands below:
 * After I entered those commands, and entered inside the folder where the code was located, I pressed the commands < k > 13 times to get to the exact line where the error was and pressed < l > 7 times to get to the correct character to change `index 1` to `index 2`.
 * I also used the command < X > to delete the number 1 in `index 1` and pressed < i > to insert 2 for `index 1` to become `index 2`.
 * Output after I fixed the error:
-![Image]() 
+![Image](step4.png) 
+
+## Run the tests now, demonstrating that they now pass
+![Image]()
