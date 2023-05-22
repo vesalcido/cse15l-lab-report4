@@ -21,7 +21,7 @@ The first step that I took before I did some of the commands below:
 * The commands that I pressed on my keyboard were: < ls > < enter > < cd lab7 > < enter > < ls > < enter >
 * After pressing those commands, I was able to find the commands to run the actual tests to view that they were failing in the lab tasks. Once I found the commands in the lab tasks, I < command -c > and < command -v > to copy and paste both commands one at a time to show that the tests were failing.
 * Output:
-![Image](step3output.png)
+![Image](newstep3output.png)
 * The output is showing that there is one failing test in the indicated java file.
 
 ## Edit the code file to fix the failing test
@@ -36,5 +36,8 @@ The first step that I took before I did some of the commands below:
 * The image above shows that now that I was able to save and exit vim, using < :wq > , I was then able to test again and showed that the code is now running just fine.
 
 ## Commit and Push the resulting change into GitHub Account
-* Now that I have fixed my code, I am now able to commit and push the workign code into my github account.
-* I am able to do the following task by typing out: 
+* Now that I have fixed my code, I am now able to commit and push the working code into my github account.
+* I am able to do the following task by typing out: < git add ListExamples.java > then, < git commit -m 'first commit' > and finally < git push -u origin main >
+* These commands helped me commit and push my working code into my github account!!
+* Output:
+![Image](laststep.png)
