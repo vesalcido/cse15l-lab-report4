@@ -17,4 +17,8 @@ Output:
 
 ## Running the tests, to demonstrate that they fail
 The first step that I took before I did some of the commands below:
+![Image](step3.png)
+* The commands that I pressed on my keyboard were: < ls > < enter > < cd lab7 > < enter > < ls > < enter >
+* After pressing those commands, I was able to find the commands to run the actual tests to view that they were failing in the lab tasks. Once I found the commands in the lab tasks, I < command -c > and < command -v > to copy and paste both commands one at a time to show that the tests were failing.
+* Output:
 ![Image]()
