@@ -32,4 +32,9 @@ The first step that I took before I did some of the commands below:
 ![Image](step4.png) 
 
 ## Run the tests now, demonstrating that they now pass
-![Image]()
+![Image](workingcode.png)
+* The image above shows that now that I was able to save and exit vim, using < :wq > , I was then able to test again and showed that the code is now running just fine.
+
+## Commit and Push the resulting change into GitHub Account
+* Now that I have fixed my code, I am now able to commit and push the workign code into my github account.
+* I am able to do the following task by typing out: 
