@@ -19,21 +19,21 @@ Output:
 The first step that I took before I did some of the commands below:
 ![Image](step3.png)
 * The commands that I pressed on my keyboard were: < ls > < enter > < cd lab7 > < enter > < ls > < enter >
-* After pressing those commands, I was able to find the commands to run the actual tests to view that they were failing in the lab tasks. Once I found the commands in the lab tasks, I < command -c > and < command -v > to copy and paste both commands one at a time to show that the tests were failing.
+* After pressing those commands, I was able to find the commands to run the actual tests to view that they were failing in the lab tasks. Once I found the commands in the lab tasks, I < command -c > and < command -v > to copy and paste both commands one at a time to show that the tests were failing. Also, eventhough I did use a copy and paste method, another way I could've done it was by pressing tab to run and type the command.
 * Output:
 ![Image](newstep3output.png)
 * The output is showing that there is one failing test in the indicated java file.
 
 ## Edit the code file to fix the failing test
 * To enter the code to be able to fix it, I entered in the terminal: < vim > < space > < ListExamples.java >
-* After I entered those commands, and entered inside the folder where the code was located, I pressed the commands < k > 13 times to get to the exact line where the error was and pressed < l > 7 times to get to the correct character to change `index 1` to `index 2`.
+* After I entered those commands, and entered inside the folder where the code was located, I was able to start at the beginning/top of the file and pressed the commands < k > 13 times to get to the exact line where the error was and pressed < l > 7 times to get to the correct character to change `index 1` to `index 2`.
 * I also used the command < X > to delete the number 1 in `index 1` and pressed < i > to insert 2 for `index 1` to become `index 2`.
 * Output after I fixed the error:
 ![Image](step4.png) 
 
 ## Run the tests now, demonstrating that they now pass
 ![Image](workingcode.png)
-* The image above shows that now that I was able to save and exit vim, using < :wq > , I was then able to test again and showed that the code is now running just fine.
+* The image above shows that now that I was able to save and exit vim, using < :wq > , I was then able to test again by pressing the < up arrow > key and ran the commands from the terminal, then was able show that the code is now running just fine.
 
 ## Commit and Push the resulting change into GitHub Account
 * Now that I have fixed my code, I am now able to commit and push the working code into my github account.
