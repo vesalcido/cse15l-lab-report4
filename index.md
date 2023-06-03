@@ -33,7 +33,7 @@ The first step that I took before I did some of the commands below:
 
 ## Run the tests now, demonstrating that they now pass
 ![Image](workingcode.png)
-* The image above shows that now that I was able to save and exit vim, using < :wq > , I was then able to test again by pressing the < up arrow > key and ran the commands from the terminal, then was able show that the code is now running just fine.
+* The image above shows that now that I was able to save and exit vim, using < :wq > , I was then able to test again by pressing the < up arrow > key at least 2 times, which was to run the `javac` command, the < up arrow > again to run the `java` command, and ran both commands from the terminal, I then was able show that the code is now running just fine.
 
 ## Commit and Push the resulting change into GitHub Account
 * Now that I have fixed my code, I am now able to commit and push the working code into my github account.
